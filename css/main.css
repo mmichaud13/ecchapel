@@ -17,7 +17,7 @@ body{
   margin-left: auto; /* 2. */
   margin-right: auto; /* 2. */
 }
-<img src="/Users/mollymichaud/Desktop/church/photosused/photo1resize.jpg" alt="Emmanuel College Chapel" width="500">:hover {
+img:hover {
   background-color: #000000
 }
 
